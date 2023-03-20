@@ -10,8 +10,8 @@ Measuring the voltage of 12 individual batteries, at 12 V with different relativ
 
 The solution presented within the LTSpice and KiKad files was required as the voltage of all the batteries must be measured simultaneously, even when they have different "grounds" (common). Additionally, in order to gather the signals and data log and store the values, a National Instruments MyRIO was used. MyRIO is a real-time embedded evaluation board, and only supports measurements between 0-5V, so many adjustments were needed to safely ensure it could read and accept the signals from the batteries. 
 
-All files, with exception to the group report, was created by hznwn. 
-Additionally, the labview files were created by hzwnwm and HKlassman.
+All files, with exception to the group report, and labview files was created solely by hznwn. 
+The labview files was created by hzwnwm and HKlasmanGustafsson.
 
 Big thanks to all involved in the project as well. 
 
